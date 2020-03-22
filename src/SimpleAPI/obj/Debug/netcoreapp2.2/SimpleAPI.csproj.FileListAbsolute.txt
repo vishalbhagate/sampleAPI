@@ -1,0 +1,16 @@
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.deps.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.runtimeconfig.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.runtimeconfig.dev.json
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.dll
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\bin\Debug\netcoreapp2.2\SimpleAPI.pdb
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.csprojAssemblyReference.cache
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorAssemblyInfo.cache
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorAssemblyInfo.cs
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.AssemblyInfoInputs.cache
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.AssemblyInfo.cs
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.dll
+C:\Users\Vishal\Downloads\SimpleAPI-master\SimpleAPI-master\src\SimpleAPI\obj\Debug\netcoreapp2.2\SimpleAPI.pdb
